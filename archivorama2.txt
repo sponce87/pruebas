@@ -1,1 +1,2 @@
 este es el archivo de rama 2!!!
+agrego oooooooooooooooootra linea al master antes de hacer merge con la otra rama
