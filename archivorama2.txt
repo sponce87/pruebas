@@ -3,5 +3,3 @@ agrego oooooooooooooooootra linea al master antes de hacer merge con la otra ram
 
 
 tambien voy a editar el archivo que me dijiste que no toque jajajajaja XD
-
-Cambio la información  desde el fork que acabo de crear!!!
